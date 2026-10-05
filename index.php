@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+  <head><meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pañol de herramientas</title>
+    <link rel="icon" type="imagene/png" href="imagenes/herramientas.png">
+    <style media="screen">
+      *{
+        padding: 0px;
+        margin:0px;
+        font-family: Comic Sans MS;
+      }
+    </style>
+    <style>
+.myDiv {
+  border: 5px outset red; margin: 8px;
+  text-align: center;
+}
+</style>
+  </head>
+
+    <body bgcolor="#C4FAE9" background="imagenes/fondo2.jpg" whide= 800px height= 800px  >
+  <center><h1> <font color="#EA0C1C" face="Poetsen One"> <img src="imagenes/herramientas.png" whide= 40px height= 40px > 
+   Pañol de herramientas <img src="imagenes/herramientas.png" whide= 40px height= 40px ></h1>  </center></font>
+      <header style="background-color:#DCF4F3;padding:60px;color:#E23208">
+
+          <h1 style="text-align:center"> <u>PAÑOLEROS A CARGO:</u> </h1>
+
+          <br>
+          <center><h1 style="color:red;font-size:30px;font-family:Comic Sans MS"> <img src="imagenes/engranes.gif" whide= 40px height= 40px > Turno Mañana: Nicolás Frosart</h1>
+            <br>
+            <center><h1 style="color:red;font-size:30px;font-family:Comic Sans MS"> <img src="imagenes/engranes.gif" whide= 40px height= 40px >Turno Tarde: Carolina Pinto</h1>
+
+      </header>
+      <section>
+        <table>
+          <tr>
+           
+
+            <td width="33%">  <img src="imagenes/martillo.gif" whide= 80px height= 80px align="left"> </a>  </td>
+           </tr>
+           <tr>
+             <td> <center> <a href="login/login.html"> <img  width="40%" height="300px" src="imagenes/ingresar.jpg" alt=""></center> </a>  </td>
+             </tr>
+             <tr>
+             <td width="33%">  <img src="imagenes/cinta.gif" whide= 80px height= 80px align="right"> </a>  </td>
+
+          </tr>
+        </table>
+      </section>
+      <footer>
+        <table>
+          <tr>
+<table>
+            <td width="33%"> 
+            <h1 style=" text-align: center; color:red;background-color:#C6F8F8;font-size:20px;font-family:Poetsen One">INFORMACIÓN DE LA ESCUELA:</h1>
+                  <p style="color:black;font-size:20px;font-family:Poetsen One">Escuela de educación Secundaria Técnica Nº1 "EJERCITO ARGENTINO"</p>
+
+</table>
+<div class="myDiv">
+<table border="0" cellspacing="9" cellpadding="3" style="text-anchor: 2 ">
+  <td width="25%"> 
+               
+                  <h1 style="color:red;font-size:20px;font-family:Poetsen One">Orientaciones: </h1>
+            
+                  <br>
+                  <ul >
+                    <li>Técnico en Tecnologías de los alimentos </li>
+                      <a href="documentos/alimentos.pdf">bajar plan</a> 
+                    <li> Técnico en electromecánica</li>
+                    <a href="documentos/electro.pdf">bajar plan</a>
+                  </ul>
+
+
+            </td>
+            
+      
+            <td width="25%">  <h1 style="text-align: center; color:red;font-size:20px;font-family:Poetsen One"> Ubicación: </h1>
+
+              <ul>
+                    <li>San Martín 1655 </li>
+                  
+                    <li> CP: 6015</li>
+                    <li>Los Toldos</li>
+                    <li>Provincia de Buenos Aires</li>
+                  
+                  </ul>
+                 
+                 </td>
+            <td width="25%">   <h1 style="color:red;font-size:20px;font-family:Poetsen One"> Contacto:</h1>
+              <ul>
+                    <li>Telefono: 02358 444192</li>
+                  
+                    <li> Mail: mt048001@abc.gov.ar</li>
+                </div>  
+                <br>
+                <td width="25%">   <h1 style="color:red;font-size:20px;font-family:Poetsen One"> Consultas:</h1>
+              <ul>
+                    <li>Dejanos tu consulta en el siguiente enlace </li>
+                    
+                  <a href= "formulario/formulario.html">Formulario</a>
+                </div>  
+               
+                  
+ </td>
+          </tr>
+        </table>
+      </footer>
+  </body>
+</html>
